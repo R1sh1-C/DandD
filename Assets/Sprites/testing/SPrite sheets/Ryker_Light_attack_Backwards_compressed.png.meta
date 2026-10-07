@@ -1,0 +1,1210 @@
+fileFormatVersion: 2
+guid: be603edbf12de164a9f5a6ff06d9a7a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1847497863348147625
+    second: Ryker_Light_attack_Backwards_compressed_0
+  - first:
+      213: 8926668369707195749
+    second: Ryker_Light_attack_Backwards_compressed_1
+  - first:
+      213: 8868898174239217266
+    second: Ryker_Light_attack_Backwards_compressed_2
+  - first:
+      213: 4780152900297630859
+    second: Ryker_Light_attack_Backwards_compressed_3
+  - first:
+      213: 7795526822347170634
+    second: Ryker_Light_attack_Backwards_compressed_4
+  - first:
+      213: -6202147631378353197
+    second: Ryker_Light_attack_Backwards_compressed_5
+  - first:
+      213: 812968203639696640
+    second: Ryker_Light_attack_Backwards_compressed_6
+  - first:
+      213: -1452566496659188108
+    second: Ryker_Light_attack_Backwards_compressed_7
+  - first:
+      213: 231897554156210990
+    second: Ryker_Light_attack_Backwards_compressed_8
+  - first:
+      213: 1103440679409098733
+    second: Ryker_Light_attack_Backwards_compressed_9
+  - first:
+      213: -7316116119995579573
+    second: Ryker_Light_attack_Backwards_compressed_10
+  - first:
+      213: -8628523337859586063
+    second: Ryker_Light_attack_Backwards_compressed_11
+  - first:
+      213: 6672653697536235116
+    second: Ryker_Light_attack_Backwards_compressed_12
+  - first:
+      213: 1219635624473983677
+    second: Ryker_Light_attack_Backwards_compressed_13
+  - first:
+      213: -7449153671348479271
+    second: Ryker_Light_attack_Backwards_compressed_14
+  - first:
+      213: 1231741323182927740
+    second: Ryker_Light_attack_Backwards_compressed_15
+  - first:
+      213: 7644685081868030993
+    second: Ryker_Light_attack_Backwards_compressed_16
+  - first:
+      213: -4077307074244375406
+    second: Ryker_Light_attack_Backwards_compressed_17
+  - first:
+      213: -3248314121528041077
+    second: Ryker_Light_attack_Backwards_compressed_18
+  - first:
+      213: -5329856196139042517
+    second: Ryker_Light_attack_Backwards_compressed_19
+  - first:
+      213: -5402349913778629885
+    second: Ryker_Light_attack_Backwards_compressed_20
+  - first:
+      213: -3599875219478469049
+    second: Ryker_Light_attack_Backwards_compressed_21
+  - first:
+      213: 5508182181921879168
+    second: Ryker_Light_attack_Backwards_compressed_22
+  - first:
+      213: -8589421776118001019
+    second: Ryker_Light_attack_Backwards_compressed_23
+  - first:
+      213: -6277077869801697088
+    second: Ryker_Light_attack_Backwards_compressed_24
+  - first:
+      213: -8835459778129406344
+    second: Ryker_Light_attack_Backwards_compressed_25
+  - first:
+      213: -4019999982109856056
+    second: Ryker_Light_attack_Backwards_compressed_26
+  - first:
+      213: 4645593863859524981
+    second: Ryker_Light_attack_Backwards_compressed_27
+  - first:
+      213: 5557695692414061236
+    second: Ryker_Light_attack_Backwards_compressed_28
+  - first:
+      213: -8085240812457659012
+    second: Ryker_Light_attack_Backwards_compressed_29
+  - first:
+      213: 4803753743042606142
+    second: Ryker_Light_attack_Backwards_compressed_30
+  - first:
+      213: 2303755675501296216
+    second: Ryker_Light_attack_Backwards_compressed_31
+  - first:
+      213: 274591862879800203
+    second: Ryker_Light_attack_Backwards_compressed_32
+  - first:
+      213: 6202004911429721572
+    second: Ryker_Light_attack_Backwards_compressed_33
+  - first:
+      213: 9143948695612076386
+    second: Ryker_Light_attack_Backwards_compressed_34
+  - first:
+      213: -7290638641340450308
+    second: Ryker_Light_attack_Backwards_compressed_35
+  - first:
+      213: -6550297928305880631
+    second: Ryker_Light_attack_Backwards_compressed_36
+  - first:
+      213: 7155344689686997385
+    second: Ryker_Light_attack_Backwards_compressed_37
+  - first:
+      213: -2098014790437948756
+    second: Ryker_Light_attack_Backwards_compressed_38
+  - first:
+      213: -2527427287699820053
+    second: Ryker_Light_attack_Backwards_compressed_39
+  - first:
+      213: -5017653327847815806
+    second: Ryker_Light_attack_Backwards_compressed_40
+  - first:
+      213: -1353968802362545065
+    second: Ryker_Light_attack_Backwards_compressed_41
+  - first:
+      213: -7492476279286975110
+    second: Ryker_Light_attack_Backwards_compressed_42
+  - first:
+      213: -6731150491866318587
+    second: Ryker_Light_attack_Backwards_compressed_43
+  - first:
+      213: 8684909830824040001
+    second: Ryker_Light_attack_Backwards_compressed_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a27d35b7e5c56e0800000000000000
+      internalID: -1847497863348147625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 400
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ddc143695e1eb70800000000000000
+      internalID: 8926668369707195749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_2
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 400
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27693a866e7a41b70800000000000000
+      internalID: 8868898174239217266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_3
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 400
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b842b4a8cb3865240800000000000000
+      internalID: 4780152900297630859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_4
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 400
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43680ba7564f2c60800000000000000
+      internalID: 7795526822347170634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_5
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 400
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3b923f69b8de9a0800000000000000
+      internalID: -6202147631378353197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_6
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 400
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00da1af164e384b00800000000000000
+      internalID: 812968203639696640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_7
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 400
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476def1a77277dbe0800000000000000
+      internalID: -1452566496659188108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_8
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 400
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b43cbc89dd73300800000000000000
+      internalID: 231897554156210990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def15ee9375305f00800000000000000
+      internalID: 1103440679409098733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 300
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43872cb62fe77a90800000000000000
+      internalID: -7316116119995579573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_11
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 300
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f726b67db3514880800000000000000
+      internalID: -8628523337859586063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_12
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 300
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6618d64f270a9c50800000000000000
+      internalID: 6672653697536235116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_13
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 300
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbafe2873240de010800000000000000
+      internalID: 1219635624473983677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_14
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 300
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da1af5043a4f9890800000000000000
+      internalID: -7449153671348479271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_15
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 300
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fec771536081110800000000000000
+      internalID: 1231741323182927740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_16
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 300
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114d8742490671a60800000000000000
+      internalID: 7644685081868030993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c0a7781de7a67c0800000000000000
+      internalID: -4077307074244375406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_18
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 200
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81af6b448babe2d0800000000000000
+      internalID: -3248314121528041077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_19
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 200
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29b735470c8806b0800000000000000
+      internalID: -5329856196139042517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_20
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 200
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303dcd4506ff605b0800000000000000
+      internalID: -5402349913778629885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_21
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 200
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74621439f8caa0ec0800000000000000
+      internalID: -3599875219478469049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_22
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 200
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084f697c28ef07c40800000000000000
+      internalID: 5508182181921879168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_23
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 200
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5825b70476e3cc880800000000000000
+      internalID: -8589421776118001019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_24
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 200
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0110f4fe653e8a0800000000000000
+      internalID: -6277077869801697088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8765851e424226580800000000000000
+      internalID: -8835459778129406344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 100
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cee34da0571638c0800000000000000
+      internalID: -4019999982109856056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_27
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 100
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575d41a7107787040800000000000000
+      internalID: 4645593863859524981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_28
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 100
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba0f0c49c6e02d40800000000000000
+      internalID: 5557695692414061236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_29
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 100
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7578f981547bcf80800000000000000
+      internalID: -8085240812457659012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_30
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 100
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34f182f39c5aa240800000000000000
+      internalID: 4803753743042606142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_31
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 100
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a7b8fb49598ff10800000000000000
+      internalID: 2303755675501296216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_32
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 100
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bc92d28db8fc300800000000000000
+      internalID: 274591862879800203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed1ff87b92f11650800000000000000
+      internalID: 6202004911429721572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_34
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261ba5654e4d5ee70800000000000000
+      internalID: 9143948695612076386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_35
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf97a2d78c272da90800000000000000
+      internalID: -7290638641340450308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_36
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1d95a3dbaa815a0800000000000000
+      internalID: -6550297928305880631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_37
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989654aa514ec4360800000000000000
+      internalID: 7155344689686997385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_38
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca23e62f9aa52e2e0800000000000000
+      internalID: -2098014790437948756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_39
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 0
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1f501d546ccecd0800000000000000
+      internalID: -2527427287699820053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Light_attack_Backwards_compressed_40
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 0
+        width: 154
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285039b02e6bd5ab0800000000000000
+      internalID: -5017653327847815806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8fd693b97688f7c40b98f294e6e511d5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":9.0,"y":5.0},"gridSpriteSize":{"x":154.0,"y":100.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.25},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Ryker_Light_attack_Backwards_compressed_0: -1847497863348147625
+      Ryker_Light_attack_Backwards_compressed_1: 8926668369707195749
+      Ryker_Light_attack_Backwards_compressed_10: -7316116119995579573
+      Ryker_Light_attack_Backwards_compressed_11: -8628523337859586063
+      Ryker_Light_attack_Backwards_compressed_12: 6672653697536235116
+      Ryker_Light_attack_Backwards_compressed_13: 1219635624473983677
+      Ryker_Light_attack_Backwards_compressed_14: -7449153671348479271
+      Ryker_Light_attack_Backwards_compressed_15: 1231741323182927740
+      Ryker_Light_attack_Backwards_compressed_16: 7644685081868030993
+      Ryker_Light_attack_Backwards_compressed_17: -4077307074244375406
+      Ryker_Light_attack_Backwards_compressed_18: -3248314121528041077
+      Ryker_Light_attack_Backwards_compressed_19: -5329856196139042517
+      Ryker_Light_attack_Backwards_compressed_2: 8868898174239217266
+      Ryker_Light_attack_Backwards_compressed_20: -5402349913778629885
+      Ryker_Light_attack_Backwards_compressed_21: -3599875219478469049
+      Ryker_Light_attack_Backwards_compressed_22: 5508182181921879168
+      Ryker_Light_attack_Backwards_compressed_23: -8589421776118001019
+      Ryker_Light_attack_Backwards_compressed_24: -6277077869801697088
+      Ryker_Light_attack_Backwards_compressed_25: -8835459778129406344
+      Ryker_Light_attack_Backwards_compressed_26: -4019999982109856056
+      Ryker_Light_attack_Backwards_compressed_27: 4645593863859524981
+      Ryker_Light_attack_Backwards_compressed_28: 5557695692414061236
+      Ryker_Light_attack_Backwards_compressed_29: -8085240812457659012
+      Ryker_Light_attack_Backwards_compressed_3: 4780152900297630859
+      Ryker_Light_attack_Backwards_compressed_30: 4803753743042606142
+      Ryker_Light_attack_Backwards_compressed_31: 2303755675501296216
+      Ryker_Light_attack_Backwards_compressed_32: 274591862879800203
+      Ryker_Light_attack_Backwards_compressed_33: 6202004911429721572
+      Ryker_Light_attack_Backwards_compressed_34: 9143948695612076386
+      Ryker_Light_attack_Backwards_compressed_35: -7290638641340450308
+      Ryker_Light_attack_Backwards_compressed_36: -6550297928305880631
+      Ryker_Light_attack_Backwards_compressed_37: 7155344689686997385
+      Ryker_Light_attack_Backwards_compressed_38: -2098014790437948756
+      Ryker_Light_attack_Backwards_compressed_39: -2527427287699820053
+      Ryker_Light_attack_Backwards_compressed_4: 7795526822347170634
+      Ryker_Light_attack_Backwards_compressed_40: -5017653327847815806
+      Ryker_Light_attack_Backwards_compressed_5: -6202147631378353197
+      Ryker_Light_attack_Backwards_compressed_6: 812968203639696640
+      Ryker_Light_attack_Backwards_compressed_7: -1452566496659188108
+      Ryker_Light_attack_Backwards_compressed_8: 231897554156210990
+      Ryker_Light_attack_Backwards_compressed_9: 1103440679409098733
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

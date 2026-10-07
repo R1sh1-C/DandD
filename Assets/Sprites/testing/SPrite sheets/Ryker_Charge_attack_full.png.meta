@@ -1,0 +1,1144 @@
+fileFormatVersion: 2
+guid: 410359e76ae84524697de064e020d4ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6941057926311012428
+    second: Ryker_Charge_attack_full_0
+  - first:
+      213: -3892952467196551530
+    second: Ryker_Charge_attack_full_1
+  - first:
+      213: -3083961261460924500
+    second: Ryker_Charge_attack_full_2
+  - first:
+      213: -988308376908175940
+    second: Ryker_Charge_attack_full_3
+  - first:
+      213: 695541101278040001
+    second: Ryker_Charge_attack_full_4
+  - first:
+      213: 1436010370787960821
+    second: Ryker_Charge_attack_full_5
+  - first:
+      213: -2295443096921732912
+    second: Ryker_Charge_attack_full_6
+  - first:
+      213: -1076054529808880542
+    second: Ryker_Charge_attack_full_7
+  - first:
+      213: 923037406510445479
+    second: Ryker_Charge_attack_full_8
+  - first:
+      213: 5663927095653838889
+    second: Ryker_Charge_attack_full_9
+  - first:
+      213: -9054194733500282975
+    second: Ryker_Charge_attack_full_10
+  - first:
+      213: -3552170989171393648
+    second: Ryker_Charge_attack_full_11
+  - first:
+      213: -6322147606844579102
+    second: Ryker_Charge_attack_full_12
+  - first:
+      213: -8998501178872964469
+    second: Ryker_Charge_attack_full_13
+  - first:
+      213: 987645911191253541
+    second: Ryker_Charge_attack_full_14
+  - first:
+      213: -1234537809273565685
+    second: Ryker_Charge_attack_full_15
+  - first:
+      213: 1244293151947132437
+    second: Ryker_Charge_attack_full_16
+  - first:
+      213: 5625265824533407149
+    second: Ryker_Charge_attack_full_17
+  - first:
+      213: -5710509809014970883
+    second: Ryker_Charge_attack_full_18
+  - first:
+      213: -1341270842065038255
+    second: Ryker_Charge_attack_full_19
+  - first:
+      213: -1814801972362300463
+    second: Ryker_Charge_attack_full_20
+  - first:
+      213: -6036444842541254124
+    second: Ryker_Charge_attack_full_21
+  - first:
+      213: 7299345259737322466
+    second: Ryker_Charge_attack_full_22
+  - first:
+      213: -6499021912628018494
+    second: Ryker_Charge_attack_full_23
+  - first:
+      213: -7063044565244433621
+    second: Ryker_Charge_attack_full_24
+  - first:
+      213: 727769986525399197
+    second: Ryker_Charge_attack_full_25
+  - first:
+      213: -326007890533838559
+    second: Ryker_Charge_attack_full_26
+  - first:
+      213: -5761541391417733898
+    second: Ryker_Charge_attack_full_27
+  - first:
+      213: -4937167213544847189
+    second: Ryker_Charge_attack_full_28
+  - first:
+      213: 7382820970129387960
+    second: Ryker_Charge_attack_full_29
+  - first:
+      213: 6431419074505985297
+    second: Ryker_Charge_attack_full_30
+  - first:
+      213: 3217899503949338789
+    second: Ryker_Charge_attack_full_31
+  - first:
+      213: -6021709588445859579
+    second: Ryker_Charge_attack_full_32
+  - first:
+      213: 2224475152591262101
+    second: Ryker_Charge_attack_full_33
+  - first:
+      213: 5615140740091169098
+    second: Ryker_Charge_attack_full_34
+  - first:
+      213: -2299973306480455810
+    second: Ryker_Charge_attack_full_35
+  - first:
+      213: 7582647961700284943
+    second: Ryker_Charge_attack_full_36
+  - first:
+      213: 3579488684255681698
+    second: Ryker_Charge_attack_full_37
+  - first:
+      213: -6381126040715635798
+    second: Ryker_Charge_attack_full_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1631
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c486d2f9867935060800000000000000
+      internalID: 6941057926311012428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1631
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ed4495b5479f9c0800000000000000
+      internalID: -3892952467196551530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_2
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1629
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca75e8d72919335d0800000000000000
+      internalID: -3083961261460924500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_3
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1628
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb568d974c2d842f0800000000000000
+      internalID: -988308376908175940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_4
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1631
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf8c5c42fe07a900800000000000000
+      internalID: 695541101278040001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1390
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7e79ce2dbbde310800000000000000
+      internalID: 1436010370787960821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1403
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d88bd54aa2f420e0800000000000000
+      internalID: -2295443096921732912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_7
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1375
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26caac73b161111f0800000000000000
+      internalID: -1076054529808880542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1387
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3f37971a94fcc00800000000000000
+      internalID: 923037406510445479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_9
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1375
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920382a4faf4a9e40800000000000000
+      internalID: 5663927095653838889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_10
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1375
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7c08e6cd9095280800000000000000
+      internalID: -9054194733500282975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_11
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1375
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bbdf83e4724bec0800000000000000
+      internalID: -3552170989171393648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_12
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1373
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2617c6f383348a0800000000000000
+      internalID: -6322147606844579102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1118
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ad75a9ad6ee1380800000000000000
+      internalID: -8998501178872964469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_14
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1119
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522fb6439b2d4bd00800000000000000
+      internalID: 987645911191253541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_15
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1132
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ec570476a0edee0800000000000000
+      internalID: -1234537809273565685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_16
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1119
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e8246770e944110800000000000000
+      internalID: 1244293151947132437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_17
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1119
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da56576a675f01e40800000000000000
+      internalID: 5625265824533407149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_18
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1119
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df56743959130c0b0800000000000000
+      internalID: -5710509809014970883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_19
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 861
+        width: 100
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154df178649d26de0800000000000000
+      internalID: -1341270842065038255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_20
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 864
+        width: 59
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3baaba83780d6e0800000000000000
+      internalID: -1814801972362300463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 863
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41af61ee56d3a3ca0800000000000000
+      internalID: -6036444842541254124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_22
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 887
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3139317db7c4560800000000000000
+      internalID: 7299345259737322466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_23
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 863
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2c356f006dec5a0800000000000000
+      internalID: -6499021912628018494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_24
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 863
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b2ad7b3660bfd90800000000000000
+      internalID: -7063044565244433621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 607
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98890562fe891a00800000000000000
+      internalID: 727769986525399197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_26
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 607
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12191c20d89c97bf0800000000000000
+      internalID: -326007890533838559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_27
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 608
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc06d561a4ea00b0800000000000000
+      internalID: -5761541391417733898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_28
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 608
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba844f7d398ab7bb0800000000000000
+      internalID: -4937167213544847189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_29
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 351
+        width: 114
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1fdd47e8c057660800000000000000
+      internalID: 7382820970129387960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_30
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 351
+        width: 139
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dc999b29df04950800000000000000
+      internalID: 6431419074505985297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_31
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 351
+        width: 111
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a85ec7bc8648ac20800000000000000
+      internalID: 3217899503949338789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_32
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 383
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501fe10a8079e6ca0800000000000000
+      internalID: -6021709588445859579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_33
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 351
+        width: 91
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59192e19d5ceede10800000000000000
+      internalID: 2224475152591262101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_34
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 373
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4945f8b0ccfced40800000000000000
+      internalID: 5615140740091169098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_35
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 373
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f0a5aa67ad410e0800000000000000
+      internalID: -2299973306480455810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_36
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 95
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a3cf5852afa3960800000000000000
+      internalID: 7582647961700284943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_37
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 95
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac179e4ef5eca130800000000000000
+      internalID: 3579488684255681698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryker_Charge_attack_full_38
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 95
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa35624bcafa177a0800000000000000
+      internalID: -6381126040715635798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ryker_Charge_attack_full_0: 6941057926311012428
+      Ryker_Charge_attack_full_1: -3892952467196551530
+      Ryker_Charge_attack_full_10: -9054194733500282975
+      Ryker_Charge_attack_full_11: -3552170989171393648
+      Ryker_Charge_attack_full_12: -6322147606844579102
+      Ryker_Charge_attack_full_13: -8998501178872964469
+      Ryker_Charge_attack_full_14: 987645911191253541
+      Ryker_Charge_attack_full_15: -1234537809273565685
+      Ryker_Charge_attack_full_16: 1244293151947132437
+      Ryker_Charge_attack_full_17: 5625265824533407149
+      Ryker_Charge_attack_full_18: -5710509809014970883
+      Ryker_Charge_attack_full_19: -1341270842065038255
+      Ryker_Charge_attack_full_2: -3083961261460924500
+      Ryker_Charge_attack_full_20: -1814801972362300463
+      Ryker_Charge_attack_full_21: -6036444842541254124
+      Ryker_Charge_attack_full_22: 7299345259737322466
+      Ryker_Charge_attack_full_23: -6499021912628018494
+      Ryker_Charge_attack_full_24: -7063044565244433621
+      Ryker_Charge_attack_full_25: 727769986525399197
+      Ryker_Charge_attack_full_26: -326007890533838559
+      Ryker_Charge_attack_full_27: -5761541391417733898
+      Ryker_Charge_attack_full_28: -4937167213544847189
+      Ryker_Charge_attack_full_29: 7382820970129387960
+      Ryker_Charge_attack_full_3: -988308376908175940
+      Ryker_Charge_attack_full_30: 6431419074505985297
+      Ryker_Charge_attack_full_31: 3217899503949338789
+      Ryker_Charge_attack_full_32: -6021709588445859579
+      Ryker_Charge_attack_full_33: 2224475152591262101
+      Ryker_Charge_attack_full_34: 5615140740091169098
+      Ryker_Charge_attack_full_35: -2299973306480455810
+      Ryker_Charge_attack_full_36: 7582647961700284943
+      Ryker_Charge_attack_full_37: 3579488684255681698
+      Ryker_Charge_attack_full_38: -6381126040715635798
+      Ryker_Charge_attack_full_4: 695541101278040001
+      Ryker_Charge_attack_full_5: 1436010370787960821
+      Ryker_Charge_attack_full_6: -2295443096921732912
+      Ryker_Charge_attack_full_7: -1076054529808880542
+      Ryker_Charge_attack_full_8: 923037406510445479
+      Ryker_Charge_attack_full_9: 5663927095653838889
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
